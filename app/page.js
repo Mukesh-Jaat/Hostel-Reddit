@@ -670,7 +670,7 @@ function CanteenAd({ t, onDismiss }) {
       <motion.a
         whileHover={{ scale: 1.02 }}
         whileTap={{ scale: 0.98 }}
-        href="https://wa.me/919876543210"
+        href="https://wa.me/91-8905124655"
         target="_blank"
         rel="noreferrer"
         className="mt-4 flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-emerald-500 to-green-600 py-2.5 text-sm font-medium text-white shadow-lg shadow-emerald-600/30 transition hover:shadow-xl hover:shadow-emerald-500/50"
